@@ -1,8 +1,9 @@
 
 from curses import OK, can_change_color
 
+cdb
 
-ceshui
 abucba
 now huave a can_change_color
-OK
+OK  noavbdwecsvksyugksvzgf\
+    cadkbSd\
